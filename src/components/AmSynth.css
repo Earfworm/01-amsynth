@@ -1,0 +1,14 @@
+.AmSynth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+.AmSynth-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 100px;
+  border-radius: 10%;
+}
